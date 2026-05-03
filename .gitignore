@@ -19,3 +19,17 @@ user-data.bak
 *.kdbx
 pki/
 users.json
+.env
+.env.*
+*.tfvars
+*.tfvars.json
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+*.vault
+*.retry
+host_vars/
+group_vars/
+*.log
+*.out
